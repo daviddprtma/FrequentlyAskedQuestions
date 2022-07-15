@@ -1,0 +1,58 @@
+html{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+  font-size: 16px;
+}
+
+header{
+ background-color: #FF6A6A;
+  color: #FFFFFF;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  padding: 2px;
+}
+
+h1{
+  font-size: 16px;
+}
+
+.questions, .visitour{
+  background-color: #FFF4F4;
+  color: #FF6A6A;
+  font-size: 35px;
+  font-weight: bold;
+  text-align: center;
+  padding: 2px;
+}
+.links {
+  color: #FF6A6A;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.links:active {
+  color: #FF6A6A;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.links:visited {
+  color: #FF6A6A;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.links:hover {
+  color: #BA4D4D;
+}
+
+.center{
+  text-align: center;
+}
+
+footer{
+  font-size: 12px;
+}
